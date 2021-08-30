@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodel aka @brodel10
 - 👀 I’m interested in Mountain Biking
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Full Stack
 
 <!---
 brodel10/brodel10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
