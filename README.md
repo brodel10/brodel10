@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rodel aka @brodel10
-- 👀 I’m interested in Mountain Biking
+- 👀 I’m an avid Mountain Biker
 - 🌱 I’m currently learning Full Stack
 
 <!---
